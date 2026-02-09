@@ -52,3 +52,12 @@ student("james",19,"male")
 #python program to display details of 5 employees at emobilis
 #use a user-defined function with the help of parameters and arguments
 #details-fullname,position ,age, gender
+
+def staff(fullname , position , age, gender):
+    print (fullname, position , age, gender)
+staff("favour kamau","lec",27,"male")
+staff("mary kamau","lec",27,"male")
+staff("hiram Kairo","lec",27,"male")
+staff("jesse white","lec",27,"male")
+staff("mary jane","lec",27,"male")
+staff("joseph white","lec",27,"male")     
